@@ -1,0 +1,31 @@
+			Classifiers Evaluation
+
+SVM with linear kernel:
+Sensitivity = 0.87
+Specificity = 0.8
+Precision = 0.81
+Accuracy = 0.83
+
+SVM with rbf kernel:
+Sensitivity = 0.83
+Specificity = 0.8
+Precision = 0.81
+Accuracy = 0.82
+
+Random Forest:
+Sensitivity = 0.87
+Specificity = 0.78
+Precision = 0.8
+Accuracy = 0.82
+
+Adaboost:
+Sensitivity = 0.81
+Specificity = 0.79
+Precision = 0.79
+Accuracy = 0.8
+
+Naive Bayes:
+Sensitivity = 0.75
+Specificity = 0.74
+Precision = 0.75
+Accuracy = 0.75
